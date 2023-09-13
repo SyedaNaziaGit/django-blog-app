@@ -1,0 +1,13 @@
+# django-blog-app
+Journal Inked is a blogging app where you will be able to write your creative thoughts, a medium to share your knowledge.
+This is Django app- where we can do Create, View, Uodate and Delete the blogs 
+
+## Commands
+-create a project
+  django-admin startproject project name
+-create multiple apps inside the project you have created
+  python manage.py startapp appname
+-run dev server
+  python manage.py runserver
+the dev server with port -8000:
+URL: https://localhost:8000/endpoint
